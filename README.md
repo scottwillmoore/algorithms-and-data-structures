@@ -70,8 +70,9 @@
 
 ## References
 
-- https://en.wikipedia.org/wiki/Algorithm
-- https://en.wikipedia.org/wiki/List_of_algorithms
-- https://en.wikipedia.org/wiki/Data_structure
-- https://en.wikipedia.org/wiki/List_of_data_structures
 - https://en.wikipedia.org/wiki/Abstract_data_type
+- https://en.wikipedia.org/wiki/Algorithm
+- https://en.wikipedia.org/wiki/Data_structure
+- https://en.wikipedia.org/wiki/List_of_algorithms
+- https://en.wikipedia.org/wiki/List_of_data_structures
+- https://www.programiz.com/dsa

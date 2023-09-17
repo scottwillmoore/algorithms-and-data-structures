@@ -1,3 +1,11 @@
 {
-	"recommendations": ["golang.go"]
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"golang.go",
+		"mkhl.direnv",
+		"ms-python.black-formatter",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"streetsidesoftware.code-spell-checker"
+	]
 }

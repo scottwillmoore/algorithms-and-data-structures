@@ -32,7 +32,7 @@
         devShells.default = packages.mkShell {
           nativeBuildInputs = with packages; [
             go
-            gopls
+            python3
           ];
         };
       };
